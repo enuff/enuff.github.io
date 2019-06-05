@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://www.bebest.ooo
+url: https://enuff.github.io
 date_format: "ordinal"
 title: Chenzt
 subtitle: "打码改变人生"
