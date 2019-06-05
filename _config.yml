@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:enuff.github.io
-url: https://enuff.github.io
+baseurl: https://enuff.github.io/
+url: https://enuff.github.io/
 date_format: "ordinal"
 title: Chenzt
 subtitle: "打码改变人生"
@@ -16,8 +16,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: enuff
-organization: chenzt.top
-organization_url: http://www.chenzt.top
+organization: enuff.cnblogs.com
+organization_url: https://enuff.cnblogs.com
 github_username: enuff
 location: Mezhou, China
 email: enuff@qq.com
