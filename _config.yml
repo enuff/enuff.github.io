@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: 
+url: http://www.bebest.ooo
 date_format: "ordinal"
-title: 码志
+title: Chenzt
 subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+description: "陈振腾的个人博客"
+keywords: Chenzt
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: 
-organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: enuff
+organization: chenzt.top
+organization_url: http://www.chenzt.top
+github_username: enuff
+location: Mezhou, China
+email: enuff@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -42,9 +42,9 @@ navs:
     href: /wiki/
     label: 维基
 
-  -
-    href: /links/
-    label: 链接
+  #-
+  #  href: /links/
+  #  label: 链接
 
   -
     href: /about/
@@ -62,7 +62,7 @@ markdown: kramdown
 kramdown:
     input: GFM
 highlighter: rouge
-paginate: 10
+paginate: 8
 lsi: false
 quiet: false
 excerpt_separator: "\n\n"
@@ -81,13 +81,13 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: enuff/enuff.github.io
 
 # ---------------- #
 #      Comments    #
 # ---------------- #
 # support provider: disqus, gitment, gitalk
-comments_provider: gitalk
+comments_provider: 
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
