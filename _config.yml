@@ -4,7 +4,7 @@
 baseurl: https://enuff.github.io/
 url: https://enuff.github.io/
 date_format: "ordinal"
-title: Chenzt
+title: enuff
 subtitle: "打码改变人生"
 description: "陈振腾的个人博客"
 keywords: Chenzt
@@ -16,7 +16,7 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: enuff
-organization: enuff.cnblogs.com
+organization: enuff's cnblog
 organization_url: https://enuff.cnblogs.com
 github_username: enuff
 location: Mezhou, China
